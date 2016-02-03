@@ -1,0 +1,64 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 101
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix colorado" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "Antrostomus vociferus" ; Times: 1
+	Query: "Coturnicops noveboracensis colorado" ; Times: 1
+	Query: "loveland aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 889 download events in this period)
+Total number of records downloaded: 110
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+
+
+End of report.
