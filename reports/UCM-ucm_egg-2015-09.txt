@@ -1,0 +1,38 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 86
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "lagopus leucura" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1045 download events in this period)
+Total number of records downloaded: 604
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "peru" ; Times: 1
+
+
+End of report.
