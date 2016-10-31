@@ -1,0 +1,73 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 138
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Portugal ; Times: 19
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 10
+	Date: 2016-09-09 ; Times: 7
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 2
+	Query: "egg colorado 1888" ; Times: 1
+	Query: "Serinus canaria 1" ; Times: 1
+	Query: "egg murchison colorado" ; Times: 1
+	Query: "Anas cyanoptera 1" ; Times: 2
+	Query: "Dendrocygna autumnalis 1" ; Times: 2
+	Query: "egg colorado 1922" ; Times: 1
+	Query: "Chloephaga melanoptera 1" ; Times: 1
+	Query: "Falco sparverius 1" ; Times: 1
+	Query: "egg california 1888" ; Times: 1
+	Query: "egg egretta florida" ; Times: 1
+	Query: "egg murchison" ; Times: 1
+	Query: "Selasphorus platycercus 1" ; Times: 1
+	Query: "Alectoris rufa 1" ; Times: 1
+	Query: "Himantopus mexicanus 1" ; Times: 1
+	Query: "egretta egg 1886 florida" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "Bonasa umbellus 1" ; Times: 2
+	Query: "egg 1886 florida" ; Times: 2
+	Query: "Ortalis vetula 1" ; Times: 1
+	Query: "Dromaius novaehollandiae 1" ; Times: 1
+	Query: "Aix sponsa 1" ; Times: 2
+	Query: "Lagopus lagopus 1" ; Times: 1
+	Query: "Eudocimus albus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 811 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-07 ; Times: 1
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+
+
+End of report.
