@@ -1,0 +1,36 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 1
+	Date: 2017-11-25 ; Times: 1
+	Date: 2017-11-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:redivivum genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1835 year &lt;= 1900" ; Times: 3
+	Query: "Chondestes grammacus minnesota" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1101 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
