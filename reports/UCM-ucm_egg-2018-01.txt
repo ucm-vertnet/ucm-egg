@@ -1,0 +1,80 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 48
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 19
+	Country: Singapore ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-16 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Vermivora cyanoptera" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Buteo swainsoni nest" ; Times: 2
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "gallus gallus vntype:specimen AND (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves AND (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "recordedby:bingaman" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1398 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza year &gt;= 1901 year &lt;= 1904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteo swainsoni nest" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+
+
+End of report.
