@@ -1,0 +1,68 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 72
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 9
+	Date: 2018-03-27 ; Times: 6
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "plegadis ridgwayi" ; Times: 3
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "UCM 875" ; Times: 3
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 5
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "genus:athene year &gt;= 1890 year &lt;= 1890" ; Times: 1
+	Query: "genus:Athene county:&#34;santa clara&#34; year &gt;= 1890 year &lt;= 1890" ; Times: 1
+	Query: "cinclus mexicanus hasmedia:1" ; Times: 1
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Junin&#34; country:&#34;Peru&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1284 download events in this period)
+Total number of records downloaded: 92
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-21 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "egg vntype:specimen class:aves preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "aphelocoma woodhouseii" ; Times: 1
+
+
+End of report.
