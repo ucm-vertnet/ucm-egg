@@ -1,0 +1,58 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-04 ; Times: 4
+	Date: 2018-04-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "UCM 8660" ; Times: 2
+	Query: "Chloephaga melanoptera basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "catalognumber:2112 institutioncode:UCM" ; Times: 1
+	Query: "catalognumber:2131 institutioncode:UCM" ; Times: 1
+	Query: "Chloephaga basisofrecord:PreservedSpecimen hastissue:0" ; Times: 1
+	Query: "specificepithet:sordidulus richardsoni genus:Contopus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1359 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "caracara" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:cupido genus:tympanuchus hasmedia:1" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Agelaius phoeniceus hasmass:1" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+
+
+End of report.
