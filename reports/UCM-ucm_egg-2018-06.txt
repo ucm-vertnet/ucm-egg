@@ -1,0 +1,64 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 231
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "coopers hawk egg" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 2
+	Query: "catalognumber:2110 institutioncode:UCM" ; Times: 3
+	Query: "lagopus leucura" ; Times: 4
+	Query: "catalognumber:1915 institutioncode:UCM" ; Times: 1
+	Query: "specificepithet:californica genus:Aphelocoma collectioncode:eggs" ; Times: 1
+	Query: "egg alaska 1898" ; Times: 2
+	Query: "egg grand manan cepphus grylle" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1169 download events in this period)
+Total number of records downloaded: 43
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "Gaviidae" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+
+
+End of report.
