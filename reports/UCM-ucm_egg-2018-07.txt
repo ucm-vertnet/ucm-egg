@@ -1,0 +1,71 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 85
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Peru ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-14 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Chloephaga melanoptera" ; Times: 2
+	Query: "sturnella neglecta institutioncode:UCM" ; Times: 1
+	Query: "Chloephaga melanoptera mappable:1" ; Times: 1
+	Query: "Plegadis ridgwayi mappable:1" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "sturnella magna institutioncode:UCM" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "specificepithet:bullockii genus:Icterus class:aves collectioncode:eggs" ; Times: 1
+	Query: "Iowa Marshall county" ; Times: 2
+	Query: "specificepithet:bairdii genus:ammodramus" ; Times: 1
+	Query: "specificepithet:bairdii genus:ammodramus ( egg)" ; Times: 1
+	Query: "amnh 2271" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 977 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-30 ; Times: 5
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "Haemorhous purpureus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:fusca genus:Melozone" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+
+
+End of report.
