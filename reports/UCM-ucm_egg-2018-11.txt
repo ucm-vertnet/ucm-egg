@@ -1,0 +1,71 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 111
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 2
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 4
+	Query: "minnesota Picoides pubescens" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Arnold institutioncode:UCM" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "class:aves stateprovince:&#34;minnesota&#34; recordedby:johnson year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "minnesota Stelgidopteryx serripennis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1719 download events in this period)
+Total number of records downloaded: 290
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 9
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "specificepithet:australis genus:Leucosticte" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+
+
+End of report.
