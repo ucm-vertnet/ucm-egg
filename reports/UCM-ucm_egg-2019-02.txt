@@ -1,0 +1,50 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "25 june 1886" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "AMNH- A 409" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &gt;= 1885 year &lt;= 1955" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1227 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
