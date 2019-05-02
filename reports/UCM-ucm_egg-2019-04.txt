@@ -1,0 +1,62 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 10
+	Country: Israel ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-19 ; Times: 6
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "1936 alaska egg" ; Times: 1
+	Query: "mississippi bird eggs" ; Times: 3
+	Query: "catalognumber:778 institutioncode:UCM" ; Times: 1
+	Query: "egg alaska 1936" ; Times: 1
+	Query: "genus:Loxia preparations:egg" ; Times: 2
+	Query: "Struthio camelus egg" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1427 institutioncode:UCM" ; Times: 1
+	Query: "catalognumber:1277 institutioncode:UCM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1263 download events in this period)
+Total number of records downloaded: 28
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Wisconsin" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Iowa" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Colorado" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Illinois" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+
+
+End of report.
