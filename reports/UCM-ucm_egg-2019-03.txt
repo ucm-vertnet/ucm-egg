@@ -1,0 +1,51 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 70
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-06 ; Times: 11
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Michigan" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Wisconsin" ; Times: 4
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile year &lt;= 1860" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1281 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+
+
+End of report.
