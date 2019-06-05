@@ -1,0 +1,74 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 136
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "heron vntype:specimen basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "Dromaius novaehollandiae year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "specificepithet:colchicus genus:phasianus country:&#34;United States&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "institutioncode:ucm sphyrapicus" ; Times: 2
+	Query: "catalognumber:860 institutioncode:UCM" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1889 year &lt;= 1889" ; Times: 1
+	Query: "Alectoris rufa year &lt;=1940" ; Times: 2
+	Query: "recordedby:ingraham year &gt;= 1888 year &lt;= 1889" ; Times: 1
+	Query: "catalognumber:612 institutioncode:UCM" ; Times: 2
+	Query: "catalognumber:445 institutioncode:UCM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 940 download events in this period)
+Total number of records downloaded: 53
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-28 ; Times: 4
+	Date: 2019-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "Vireo bellii" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+
+
+End of report.
