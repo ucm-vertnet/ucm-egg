@@ -1,0 +1,68 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-11 ; Times: 9
+	Date: 2019-06-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Anhinga specificepithet:anhinga" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 1
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 1
+	Query: "genus:Gallinula class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pelagica genus:Chaetura class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 1
+	Query: "w.j. wirt class:aves" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "genus:Toxostoma specificepithet:longirostre" ; Times: 1
+	Query: "genus:Dromaius specificepithet:novaehollandiae" ; Times: 1
+	Query: "Antrostomus vociferus" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1182 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-04 ; Times: 3
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+
+
+End of report.
