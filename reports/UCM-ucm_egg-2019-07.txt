@@ -1,0 +1,60 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 110
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:472a9647-bca4-4975-a5c4-613d1064ea69" ; Times: 1
+	Query: "genus:Sternula specificepithet:antillarum" ; Times: 1
+	Query: "AMNH Aves Catharus ustulatus" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "leucosticte AND eggs" ; Times: 2
+	Query: "charadrius nivosus vntype:specimen hasmedia:1" ; Times: 1
+	Query: "vireo marshall" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 985 download events in this period)
+Total number of records downloaded: 33
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Guadeloupe ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "porzana carolina" ; Times: 1
+	Query: "(&#34;Patagioenas leucocephala&#34; OR &#34;Columba leucocephala&#34;)" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
