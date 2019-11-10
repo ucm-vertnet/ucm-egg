@@ -1,0 +1,61 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 152
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 37
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-05 ; Times: 4
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-06 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "kiwi" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 10
+	Query: "Apteryx" ; Times: 3
+	Query: "Corvus brachyrhynchos colorado egg" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 8
+	Query: "anas flavirostris" ; Times: 1
+	Query: "Pelecanus occidentalis californicus" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 18
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1073 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "anas flavirostris" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
