@@ -1,0 +1,45 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 20
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Poland ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "AMNH 386" ; Times: 1
+	Query: "bird egg vanellus" ; Times: 1
+	Query: "Himantopus AND Island" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;colorado&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 596 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Hong Kong ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "spinus tristis pallidus" ; Times: 1
+
+
+End of report.
