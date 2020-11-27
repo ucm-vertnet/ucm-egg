@@ -1,0 +1,63 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 58
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-04 ; Times: 4
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "western meadow lark" ; Times: 1
+	Query: "genus:Lagopus country:&#34;United States&#34; AND (NOT Alaska) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (petechia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lagopus genus:Lagopus country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Colorado&#34; institutioncode:UCM" ; Times: 2
+	Query: "Spatula clypeata" ; Times: 1
+	Query: "mimus polyglottos vntype:specimen hasmedia:1" ; Times: 1
+	Query: "county:&#34;refugio&#34; stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 1
+	Query: "genus:nucifraga preparations:egg" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Setophaga petechia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(schofield)" ; Times: 1
+	Query: "Pipilo stateprovince:&#34;Colorado&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 853 download events in this period)
+Total number of records downloaded: 26
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Guadeloupe ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Passerina stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+
+
+End of report.
