@@ -1,0 +1,55 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Chlidonias class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:UCM" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:UCM" ; Times: 1
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "specificepithet:niger class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:UCM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1023 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+
+
+End of report.
