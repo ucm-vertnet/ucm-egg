@@ -1,0 +1,88 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 114
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 45
+	Country: United States ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-07 ; Times: 22
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 8
+	Date: 2020-04-03 ; Times: 11
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plegadis ridgwayi" ; Times: 1
+	Query: "celestial" ; Times: 1
+	Query: "toolik" ; Times: 2
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Himantopus mexicanus" ; Times: 2
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Rhea americana" ; Times: 3
+	Query: "Pelecanus occidentalis" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1171 download events in this period)
+Total number of records downloaded: 72
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 4
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "AMNH; Junco Hyemalis" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+
+
+End of report.
