@@ -1,0 +1,90 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 142
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 9
+	Country: Brazil ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 6
+	Date: 2019-10-24 ; Times: 6
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-30 ; Times: 6
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kiwi" ; Times: 1
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "Poecile gambeli Colorado Boulder" ; Times: 1
+	Query: "Brachyramphus marmoratus 2019" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "struthio egg" ; Times: 1
+	Query: "Brachyramphus marmoratus 2017" ; Times: 1
+	Query: "AMNH 6658" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 1
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "Brachyramphus marmoratus 2000" ; Times: 1
+	Query: "class:Aves locality:Banning county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "catalognumber:1175 institutioncode:UCM" ; Times: 1
+	Query: "class:aves institutioncode:UCM" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "Stercorariidae continent:America North" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1308 download events in this period)
+Total number of records downloaded: 36
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "stercorariidae" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "class:Aves locality:Banning county:&#34;Riverside&#34;" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+
+
+End of report.
