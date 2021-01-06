@@ -1,0 +1,62 @@
+Report for Institution Code UCM, Resource ucm_egg
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 15
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 3
+	Date: 2020-12-14 ; Times: 3
+	Date: 2020-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "William Hair" ; Times: 2
+	Query: "mappable:1 scientificname:Tyto alba" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Lark Bunting eggs" ; Times: 1
+	Query: "Pasadena 1906" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 705 download events in this period)
+Total number of records downloaded: 146
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+
+
+End of report.
